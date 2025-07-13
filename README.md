@@ -1,8 +1,8 @@
- <p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&width=700&lines=Love+Large+Language+Models;GenAI+%7C+LLM+%7C+ML+Enthusiast;Frontend+%2B+AI+Developer;I+Code+with+Curiosity+%26+Purpose" alt="Typing SVG" />
 </p>
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
----
 
 <h1 align="center">Hey there 👋, I'm Harsh Gupta</h1>
 
