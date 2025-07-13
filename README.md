@@ -13,8 +13,7 @@
 - 🌐 Frontend + AI Developer | Passionate about accessible and intelligent web applications
 - 📚 I enjoy meditation, learning through projects, and solving real-world problems
 - 🧠 I believe a curious mind can turn any problem into a project
-
----
+  
 
 ## 🛠️ Tech Stack
 
