@@ -42,7 +42,7 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-HarshGupta-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-username)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HarshGupta-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-gupta-602bb131b/)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-Harsh-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/your-username)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Click_Here-informational?style=for-the-badge&logo=internet-explorer)](https://your-portfolio.com)
 
