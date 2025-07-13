@@ -2,18 +2,28 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&width=700&lines=Love+Large+Language+Models;GenAI+%7C+LLM+%7C+ML+Enthusiast;Frontend+%2B+AI+Developer;I+Code+with+Curiosity+%26+Purpose" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 <h1 align="center">Hey there 👋, I'm Harsh Gupta</h1>
 
+<table>
+<tr>
+<td width="70%">
+  
 ## 🙋‍♂️ About Me
 
-- 🎓 B.Tech in Computer Science (Artificial Intelligence & Machine Learning)
-- 🤖 GenAI, LLMs, and Machine Learning Enthusiast
-- 🌐 Frontend + AI Developer | Passionate about accessible and intelligent web applications
-- 📚 I enjoy meditation, learning through projects, and solving real-world problems
-- 🧠 I believe a curious mind can turn any problem into a project
-  
+- 🎓 B.Tech in Computer Science (Artificial Intelligence & Machine Learning)  
+- 🤖 GenAI, LLMs, and Machine Learning Enthusiast  
+- 🌐 Frontend + AI Developer | Passionate about accessible and intelligent web applications  
+- 📚 I enjoy meditation, learning through projects, and solving real-world problems  
+- 🧠 I believe a curious mind can turn any problem into a project  
+
+</td>
+<td>
+  <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</td>
+</tr>
+</table>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -39,18 +49,3 @@
 ---
 
 > 💬 *Let’s collaborate on building intelligent, accessible, and impactful solutions!*
-
-<!--
-**Harsh-End-Dot/Harsh-End-Dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
