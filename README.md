@@ -39,6 +39,24 @@
 | **Misc**          | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) |
 
 ---
+## 🚀 Featured Project
+
+### 🧠 Review Insights AI  
+**Turning Review Overload into Clear Answers**
+
+Popular products often have **thousands of reviews** with mixed opinions, making it difficult for users to quickly decide whether a product is worth buying. Important details are buried in long text, and star ratings alone lack context.
+
+**Review Insights AI** solves this problem by enabling **natural language questions over 100,000+ real-world product reviews**.  
+Using a clean **Retrieval-Augmented Generation (RAG)** architecture, the system retrieves relevant review snippets and generates **concise, context-grounded answers** using a local LLM.
+
+- 🔍 Semantic search over large-scale review data (FAISS)  
+- 🧠 Context-aware answer generation using **Llama 3 (local)**  
+- 📊 Designed with modular, transparent RAG components  
+- 🖥️ Interactive Streamlit interface  
+
+👉 **Repository:**  
+🔗 https://github.com/Harsh-End-Dot/review-insights-ai
+---
 ## 🚧 Ongoing Project
 
 ### 🧠 **DataMorphAI — Intelligent Document Processing Platform**
